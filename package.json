@@ -35,8 +35,11 @@
 		"url": "https://t.me/peach_lasagna"
 	},
 	"repository": {
-		"url": ""
+		"url": "https://github.com/peach-lasagna/pypoetry-vscode",
 	},
+	"license": "Apache License 2.0",
+	"readme": "README.md",
+	"publisher": "peach-lasagna",
 	"scripts": {
 		"vscode:prepublish": "npm run compile",
 		"compile": "tsc -p ./",
